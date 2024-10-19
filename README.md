@@ -1,6 +1,6 @@
 # Open Music API - Consumer
 
-Proyek ini adalah consumer untuk proyek [Open Music API](https://github.com/callmeaxeload/openmusic-api).
+This project is consumer for [Open Music API](https://github.com/callmeaxeload/openmusic-api) project.
 
 ## How to run
 
