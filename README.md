@@ -1,4 +1,4 @@
-# Open Music API V3 - Consumer
+# Open Music API - Consumer
 
 Proyek ini adalah consumer untuk proyek [Open Music API](https://github.com/callmeaxeload/openmusic-api).
 
